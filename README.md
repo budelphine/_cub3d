@@ -17,11 +17,11 @@ Simple version of Raycaster-Game Wolfenstein 3D
 ```
 *simple map*
 
-111111
-111011
-122N01
-100001
-111111
+111111111111111111
+111000000000000011
+1220000N00000000001
+1000000000000002211
+11111111111111111
 ```
 
 map extension - .cub, texture extension - .xpm
