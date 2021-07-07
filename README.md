@@ -39,5 +39,5 @@ map extension - .cub, texture extension - .xpm
   
   
 **Result**
-
+![cub3d.gif](https://github.com/budelphine/_cub3d/blob/main/cub3d.gif)
 
