@@ -14,8 +14,8 @@ Simple version of Raycaster-Game Wolfenstein 3D
 - C  - ceilling color in rgb
 - Map: 1 - wall, 0 - void, 2 - sprite, NSWE - player
 
-*simple map*
 ```
+*simple map*
 111111
 111011
 122N01
