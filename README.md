@@ -16,6 +16,7 @@ Simple version of Raycaster-Game Wolfenstein 3D
 
 ```
 *simple map*
+
 111111
 111011
 122N01
