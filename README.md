@@ -37,7 +37,7 @@ map extension - .cub, texture extension - .xpm
 - <make custom> start custom map with custom textures (created by PS)
 - make && ./cub3D path_to/textutes
   
-
+  
 **Result**
 
 
