@@ -26,11 +26,17 @@ Simple version of Raycaster-Game Wolfenstein 3D
 
 map extension - .cub, texture extension - .xpm
 
-2. Games rules
+2. Control key
 - W - move forward
 - S, D - move left/right
 - keyleft, keyright - rotate the viewing angle left/right
 - ESC - close program
+
+3. Start
+- <make default> start default map with Wolfenstein 3D textures. 
+- <make custom> start custom map with custom textures (created by PS)
+- make && ./cub3D path_to/textutes
+  
 
 **Result**
 
