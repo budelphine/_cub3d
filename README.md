@@ -1,5 +1,5 @@
 # _cub3d
-Simple version of Raycaster-Game Wolfenstein 3D
+*Simple version of Raycaster-Game Wolfenstein 3D*
 
 **How to use**
 
